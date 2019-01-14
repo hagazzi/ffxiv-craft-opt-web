@@ -10603,6 +10603,22 @@
     }
   },
   {
+    "baseLevel": 66,
+    "difficulty": 2411,
+    "durability": 60,
+    "id": "21ec914a287",
+    "level": 279,
+    "maxQuality": 9340,
+    "name": {
+      "cn": "Ishgardian Culinary Essentials",
+      "de": "Ishgardian Culinary Essentials",
+      "en": "Ishgardian Culinary Essentials",
+      "fr": "Ishgardian Culinary Essentials",
+      "ja": "Ishgardian Culinary Essentials",
+      "ko": "Ishgardian Culinary Essentials"
+    }
+  },
+  {
     "baseLevel": 67,
     "difficulty": 2559,
     "durability": 80,
